@@ -1,4 +1,4 @@
-# PYTHON 선택 과제 2번
+# PYTHON 선택 과제 2번 (고급)
 
 ```py
 import discord, ...
