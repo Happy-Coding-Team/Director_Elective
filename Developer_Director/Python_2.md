@@ -8,7 +8,7 @@ from discord.ext import commands
 ```
 
 ### 과제 설명
-1. Python의 기본 데이터베이스인 `Sqlite3`을 사용하여, 데이터 베이스 구축하기
+1. Python의 기본 데이터베이스인 `Sqlite3 (SQLAlchemy 가능)`을 사용하여, 데이터 베이스 구축하기
 2. 해당 DB파일의 이름은 'HappyCoding'로 할것
 3. DB에 `datetime`를 사용하여, 출퇴근 시간을 `Y년 M월 D일 H시 M분`으로 기록 할 것.
 4. 휴식, 복귀 시간이 있는 만큼 행의 길이가 들어가야 할 것. ex) 휴식-4번, 복귀-4번 개수에 추가 작성 되어야 될 것.
