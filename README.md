@@ -6,6 +6,7 @@ Vue 프론트엔드 | [바로가기](FrontEnd_Director/Vue.md)
 리액트 프론트엔드 | [바로가기](FrontEnd_Director/React.md)
 Node.js 백엔드 | [바로가기](BackEnd_Director/Node.md)
 Python 백엔드 | [바로가기](BackEnd_Director/Python.md)
+Python 봇 개발 | [바로가기](Developer_Director/README.md)
 
 ## 주의사항
 * HTML 템플릿 이나 다른 유저의 소스코드 복사는 안됩니다. (자동 탈락)
