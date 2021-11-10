@@ -15,4 +15,4 @@ Python 백엔드 | [바로가기](Python.md)
  3. 코딩이 끝난 후 아래의 이메일 주소로 제출합니다.
  * 파일명은 'HappyCoding_(DiscordTag)_DiscordUserId.zip'로 할 것
  * ex. HappyCoding_할리#0817_833277196947947531.zip
- * haley@happycoding.team 으로 제출합니다.
+ * kimhaley040101@gmail.com 으로 제출합니다.
